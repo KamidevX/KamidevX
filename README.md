@@ -83,7 +83,7 @@ Developed modern responsive websites for businesses and clients with premium UI/
 
 ---
 
-## GitHub Stats
+## GitHub Status
 
 > Consistency, creativity, and continuous learning.
 
