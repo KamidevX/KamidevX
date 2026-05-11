@@ -1,20 +1,11 @@
 # Hi, I'm Kamran Samejo 👋
 
-Full Stack Developer & AI Engineer passionate about building modern web applications, AI-powered systems, and scalable digital solutions.
+Computer Science Student | Full Stack Developer | AI Engineer
+
+Passionate about building modern web applications, AI-powered systems, and scalable digital solutions.
 
 ---
 
-
-## About Me
-
-- 🎓 Computer Science Student
-- 💻 Full Stack Web Developer
-- 🤖 AI Engineer & Automation Enthusiast
-- 🌱 Currently improving skills in Backend Development, APIs, and Artificial Intelligence
-- 🚀 Focused on creating clean, responsive, and user-friendly applications
-- 🔥 Interested in Web Technologies, AI Tools, and Startup Projects
-
----
 
 ## Skills
 
